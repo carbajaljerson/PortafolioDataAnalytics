@@ -10,7 +10,7 @@
 El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identificar posibles nichos, en donde se pueden desarrollar nuevos productos. El objetivo principal es encontrar los insights y presentarlos, suponiendo que nuestra audiencia es un grupo inversor dispuesto a invertir en el desarrollo de nuevos productos.
 
 
-## Conclusiones
+## Análisis
 
 De acuerdo al Análisis del archivo '4. Video Games Sales.csv' se verificó que:
 
