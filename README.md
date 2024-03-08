@@ -4,8 +4,9 @@
 <br/><br/>
 
 <p align=center>
-<img src="src\banner.png" height="300" weight="300">
+<img src="src\banner.png" height="250" weight="250">
 <p>
+<br/><br/>
 
 ## Siniestros Viales en la Ciudad Atónoma de Buenos Aires (CABA)
 
