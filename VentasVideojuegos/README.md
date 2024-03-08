@@ -12,8 +12,6 @@ El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identi
 
 ## Análisis
 
-De acuerdo al Análisis del archivo '4. Video Games Sales.csv' se verificó que:
-
 . La mayor participación de Ventas en la Industria de videojuegos la tiene Norteamérica con 49.36% seguida de Europa con 26.82%, Japon con 15.33% y Otros 8.49%, por lo que se reconoce a Norteamérica como un mercado atractivo para comercializar videojuegos.
 
 . En el periodo de años del 2001 al 2008 se efectuó el mayor crecimiento en ventas de videojuegos. Las 5 primeras plataformas que generaron mayores Ventas fueron: PS2, X360, PS3, Wii y Ds  donde se destaca a la región de Norteamérica como principal mercado y en segundo lugar a Europa.
