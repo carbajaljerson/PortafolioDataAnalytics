@@ -1,11 +1,11 @@
 # Portafolio Análisis de Datos
 
 
-<br/><br/>
+<br/>
 
 <p align=center>
 <img src="src\banner.png" height="240" weight="240">
-<p>
+</p>
 <br/>
 
 ## Siniestros Viales en la Ciudad Atónoma de Buenos Aires (CABA)
