@@ -4,7 +4,7 @@
 <br/><br/>
 
 <p align=center>
-<img src="src\banner.png" height="220" weight="220">
+<img src="src\banner.png" height="240" weight="240">
 <p>
 <br/><br/><br/>
 
