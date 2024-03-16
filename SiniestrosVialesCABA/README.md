@@ -46,7 +46,7 @@ Este proyecto se desarrolló en base al dataset denominado Homicidios, que se en
 Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) 
 
 
-## **DESARROLLO DEL PROYECTO INDIVIDUAL ** :white_circle:
+## **DESARROLLO DEL PROYECTO ** :white_circle:
 
 ## **1. Etapa del proceso ETL** :
 
@@ -65,19 +65,23 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 </p>
 </br>
 Por medio de los gráficos anteriores podemos identificar el rango de edad de 20 a 40 años y la Franja Horaria de 5 a 10 estan asociados a una mayor cantidad de Siniestros Viales así como también se puede reconocer que el número más frecuente de víctimas es 1.  
-
+</br>
 <p align="center">
 <img src="src\nube.png"  height=300 weight=400>
 </p>
-El mapa de calor nos ayuda a obtener una representación visual de los puntos de Localización de los Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA) donde los colores más cálidos reflejan una mayor concentración de Siniestros, mientras que los colores frios indican un menor número de Siniestros 
+El mapa de calor nos ayuda a obtener una representación visual de los puntos de Localización de los Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA) donde los colores más cálidos reflejan una mayor concentración de Siniestros, mientras que los colores frios indican un menor número de Siniestros.
+
+</br>
 <p align="center">
 <img src="src\mapa.png"  height=300 weight=400>
 </p>
-
+</br>
 Se reconoce que la mayor cantidad de Siniestros Viales se encuentran al Este de la Ciudad Autónoma de Buenos Aires y corresponden a las comunas 1 y 4
 
 ## **3. Análisis de Datos**
 - Los tres principales vehículos y/o medios de transporte asociados a una mayor cantidad de víctimas son las motos, seguidos de los autos y bicicletas. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos en los accidentes de tráfico; es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos como el uso de casco certificado para mitigar la mortandad en los accidentes.
+
+</br>
 <p align="center" >
 <img src="src\analisis.png"  height=450 weight=550>
 </p>
