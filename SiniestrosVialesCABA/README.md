@@ -72,10 +72,10 @@ Se reconoce que la mayor cantidad de Siniestros Viales se encuentran al Este de 
 
 ## **3. Análisis de Datos**
 - Los tres principales vehículos y/o medios de transporte asociados a una mayor cantidad de víctimas son las motos, seguidos de los autos y bicicletas. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos en los accidentes de tráfico; es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos como el uso de casco certificado para mitigar la mortandad en los accidentes.
-
 <p align="center" >
-<img src="src\analisis01.png"  height=450 weight=550>
+<img src="src\analisis.png"  height=450 weight=550>
 </p>
+</br>
 
 - La mayor parte de accidentes ocurrieron en las comunas 1, 4 y 9 ante esto es necesario indicar que estas comunas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como una mayor densidad de población, un mayor volumen de tráfico, redes de carreteras complejas y diversos modos de transporte que interactúan en estas comunas pueden estar contribuyendo al incremento de accidentes de tránsito.
 
