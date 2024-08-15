@@ -145,10 +145,10 @@ Se reconoce que la mayor cantidad de Siniestros Viales se encuentran al Este de 
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
     del objetivo del 19% alcanzando el objetivo propuesto con un 30%.
 
+## **5. Dashboard**
+El Dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https://tinyurl.com/2btuakma)
 
-
-
-## **5. Conclusiones**
+## **6. Conclusiones**
 
 Mis principales conclusiones sobre la evolución de los accidentes de tráfico en CABA son los siguientes:
  
@@ -164,7 +164,6 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
 
 
 En función de lo anterior, se hacen las siguientes recomendaciones:
-
 
 - Se debe de generar campañas de concientización en las comunas que tienen un alto número de víctimas; así como eliminar la contaminación visual en las principales avenidas ya que esto aumenta la distracción de los conductores.
 - Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 35 años.
