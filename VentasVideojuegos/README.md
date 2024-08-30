@@ -7,7 +7,7 @@
 
 ## **1. Introducción**
 
-El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identificar posibles nichos, en donde se pueden desarrollar nuevos productos. El objetivo principal es encontrar los insights y presentarlos, suponiendo que nuestra audiencia es un grupo inversor dispuesto a invertir en el desarrollo de nuevos productos.
+El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identificar posibles nichos, en donde se pueden desarrollar nuevos videojuegos. El objetivo principal es encontrar los insights y presentarlos, suponiendo que nuestra audiencia es un grupo inversor dispuesto a invertir en el desarrollo de videojuegos.
 
 
 ## **2. Análisis**
