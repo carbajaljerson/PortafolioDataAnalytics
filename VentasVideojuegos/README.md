@@ -5,12 +5,12 @@
 </p>
 
 
-## Introducción
+## **1. Introducción**
 
 El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identificar posibles nichos, en donde se pueden desarrollar nuevos productos. El objetivo principal es encontrar los insights y presentarlos, suponiendo que nuestra audiencia es un grupo inversor dispuesto a invertir en el desarrollo de nuevos productos.
 
 
-## Análisis
+## **2. Análisis**
 
 <p align=center>
 <img src="src\dashboard.png" height="550" weight="650">
@@ -24,11 +24,16 @@ El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identi
 . Los 5 géneros más consumidos y que generaron mayores Ventas fueron en la industria de videojuegos fueron:  Action, Sport, Shooter,     
 Role-Playing, Platform  aquí también se obtuvo a la región de Norteamérica como principal mercado y en segundo lugar a Europa.
 
-## Datos
+
+## **3. Dashboard**
+El Dashboard desarrollado se encuentra en el siguiente enlace [Dashboard]()
+
+
+## **4. Datos**
 
 Se cuenta con un dataset que contiene las platformas, año de lanzamiento, genero, ventas, ventas por región y la empresa desarrolladora como las más resaltantes.
 
 
-## Detalles adicionales del proyecto
+## **5. Detalles adicionales del proyecto**
 
 `Obtención de datos:` Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://drive.google.com/drive/folders/1k7hHtI3bGQ9UykEvdEwnRecXJAwQBaQQ?usp=sharing) 

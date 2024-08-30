@@ -15,15 +15,15 @@ Bienvenidos a continuación se presenta el desarrollo del Proyecto Individual de
 El presente proyecto se desarrolló bajo el perfil de un Data Analyst y tiene como finalidad la elaboración de un proyecto de análisis de datos para obtener información y conocimiento, este requerimiento es solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), que es un centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). La realización del proyecto permitirá a las autoridades locales tomar decisiones claves para mitigar la cantidad de víctimas mortales en los siniestros viales en la Ciudad Atónoma de Buenos Aires (CABA).
 
 
-Mediante el análisis de los datos sobre los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, entre los años 2016 y 2021, descubrí varias observaciones que pueden guiar a la toma de decisiones futuras por las autoridades. En este proyecto, compartiré mis hallazgos y brindaré recomendaciones que estan basadas en información que han sido derivados de un dataset de homicidios en siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA).
+Se llevó a cabo el análisis de los datos sobre los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, ocurridos entre los años 2016 y 2021. En este proyecto, compartiré mis hallazgos y brindaré recomendaciones a partir de  la identificación de patrones y tendencias.
 
 
 ## Contexto
-Las muertes por siniestros viales en Argentina poseen cifras alarmantes los informes del Sistema Nacional de Información Criminal (SNIC), revelan que entre 2018 y 2022 se registraron 19'630 muertes en siniestros viales en todo el país.  Estas cifras equivalen a 11 personas por día que resultaron víctimas fatales por accidentes de tránsito.
+Las muertes por siniestros viales en Argentina poseen cifras alarmantes los informes del Sistema Nacional de Información Criminal (SNIC), revelan que entre los años 2018 y 2022 se registraron 19630 muertes en siniestros viales en todo el país, estas cifras equivalen a un promedio de 11 víctimas fatales por día por accidentes de tránsito.
 
 Esta es una gran problemática que afecta a todas las provincias, si bien algunas se ven más afectadas que otras, sigue siendo un factor que da que hablar en cada territorio. Al 2022 los siniestros totales que suceden en la provincia de Buenos Aires representan el 30%. Los siniestros viales involucran a diversos tipos de vehículos y actores en las vías públicas, y estos son automóviles, motos, bicicletas, peatones, atropellos, vehículos de carga y pasajeros. 
 
-Solo en 2022, el número de muertes por accidentes de tránsito alcanzó a 3'828 muertes fatales. Los expertos en la materia indican que en Argentina es dos o tres veces más alta la probabilidad de que una persona muera en un siniestro vial que en un hecho de inseguridad delictiva.
+En el 2022, el número de muertes por accidentes de tránsito alcanzó a 3828 muertes fatales. Los expertos en la materia indican que en Argentina es dos o tres veces más alta la probabilidad de que una persona muera en un siniestro vial que en un hecho de inseguridad delictiva.
 
 
 ## 📊 Alcance del Proyecto
@@ -58,13 +58,13 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 
 ## **2. Análisis Exploratorio de los Datos (EDA)**
 
-Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables de los datasets, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y se verificó si hay algún patrón o conocimiento que sirva en un análisis posterior. Una gráfica muy representativa de este proceso es las nubes de palabras que nos mostrarán cuales son las palabras que se presentan con una mayor frecuencia, a continuación mostraremos la gráfica sobre la columna 'Dirección Normalizada' con lo cual se puede ver que las palabras 'gral paz' y 'av' representan avenidas y son las que aparecen con mayor frecuencia en los siniestros viales
+Una vez que los datos están limpios, es importante revisar las relaciones que existen entre las variables de los datasets, identificar la presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y verificar si existen patrones o conocimientos que sirvan en un análisis posterior. Una gráfica representativa de este proceso es la nube de palabras, que muestra cuales son las palabras que aparecen con una mayor frecuencia. A continuación se muestra la gráfica sobre las direcciones y se observa que la Avenida Gral Paz aparece con mayor frecuencia en los siniestros viales.
 
 <p align="center" >
 <img src="src\analisis08.png"  height=590 weight=580>
 </p>
 </br>
-Por medio de los gráficos anteriores podemos identificar el rango de edad de 20 a 40 años y la Franja Horaria de 5 a 10 estan asociados a una mayor cantidad de Siniestros Viales así como también se puede reconocer que el número más frecuente de víctimas es 1.  
+Por medio de los gráficos anteriores podemos identificar el rango de edad de 20 a 40 años y la franja horaria entre las 5 a 10 a.m. estan asociados a una mayor cantidad de Siniestros Viales, así como también se puede reconocer que el número más frecuente de víctimas es 1.  
 </br>
 <p align="center">
 <img src="src\nube.png"  height=300 weight=400>
@@ -76,10 +76,10 @@ El mapa de calor nos ayuda a obtener una representación visual de los puntos de
 <img src="src\mapa.png"  height=300 weight=400>
 </p>
 </br>
-Se reconoce que la mayor cantidad de Siniestros Viales se encuentran al Este de la Ciudad Autónoma de Buenos Aires y corresponden a las comunas 1 y 4
+Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciudad Autónoma de Buenos Aires, principalmente en las comunas 1 y 4.
 
 ## **3. Análisis de Datos**
-- Los tres principales vehículos y/o medios de transporte asociados a una mayor cantidad de víctimas son las motos, seguidos de los autos y bicicletas. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos en los accidentes de tráfico; es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos como el uso de casco certificado para mitigar la mortandad en los accidentes.
+- Los tres principales vehículos y/o medios de transporte asociados a un mayor número de víctimas son las motos, seguidas por los autos y las bicicletas. Las motos causaron casi la mitad de las muertes, representando el 42%. Esto resalta la importancia de abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad para las motos, así como el uso de cascos certificados, con el fin de reducir la mortalidad en los accidentes.
 
 </br>
 <p align="center" >
@@ -87,33 +87,33 @@ Se reconoce que la mayor cantidad de Siniestros Viales se encuentran al Este de 
 </p>
 </br>
 
-- La mayor parte de accidentes ocurrieron en las comunas 1, 4 y 9 ante esto es necesario indicar que estas comunas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como una mayor densidad de población, un mayor volumen de tráfico, redes de carreteras complejas y diversos modos de transporte que interactúan en estas comunas pueden estar contribuyendo al incremento de accidentes de tránsito.
+- La mayor parte de los accidentes ocurrieron en las comunas 1, 4 y 9, por lo que estas áreas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como la alta densidad de población, el elevado volumen de tráfico, las redes de carreteras complejas y la interacción de diversos modos de transporte en estas comunas podrían estar contribuyendo al aumento de los accidentes de tránsito
 
 <p align="center">
 <img src="src\analisis02.png" height=250 weight=350>
 </p>
 
-- El rango de edades involucrado en la mayor cantidad de accidentes es el que está comprendido entre los 18 a 35 años de edad, al tratarse de una muestra joven se debe de tener en cuenta factores como el aumento de velocidad y las distracciones en la ruta pueden contribuir a una mayor incidencia de accidentes.
+- El grupo etario con mayor incidencia en los accidentes es el de 18 a 35 años. Dado que se trata de una muestra joven, es necesario considerar que factores como el aumento de velocidad y las distracciones en la carretera, pueden contribuir a una mayor frecuencia de accidentes.
 
 <p align="center">
 <img src="src\analisis03.png" height=300 weight=400>
 </p>
 
-- En el siguiente mapa se localizan los puntos donde ocurrieron los accidentes nos sirve de mucha ayuda ya que nos muestra las principales zonas donde existe una mayor número de víctimas, esto ayuda a reconocer las avenidas relacionadas a los siniestros y a partir de esta información se debe de realizar políticas urbanas para lograr mitigar la tasa de mortandad por siniestros viales.
+- En el siguiente mapa se localizan los puntos donde ocurrieron los accidentes lo cual es de gran utilidad para identificar las principales zonas con un mayor número de víctimas. Esto ayuda a reconocer las avenidas relacionadas a los siniestros y, con base en esta información, se deben implementar políticas urbanas para mitigar la tasa de mortalidad por siniestros viales.
 
 
 <p align="center">
 <img src="src\analisis04.png" height=250 weight=350>
 </p>
 
-- Podemos identificar los días Lunes y Sábados son los que presentan un mayor número de víctimas, así como también los meses con mayor frecuencia de siniestros son los meses de Noviembre y Diciembre. Sobre la franja horaria podemos añadir que entre las horas 5-7 estan asociadas a un mayor número de víctimas.
+- Los Lunes y Sábados son los días que presentan un mayor número de víctimas, los meses con mayor frecuencia de siniestros son Noviembre y Diciembre. En cuanto a la franja horaria, las horas entre 5-7 a.m. estan asociadas a un mayor número de víctimas.
 
 <p align="center">
 <img src="src\analisis07.png" height=500 weight=600>
 </p>
 
 
-- Se halló que el sexo Masculino es el que tiene asociado un mayor porcentaje en los siniestros viales con un 76% y rango de edad entre 18-35 años; con respecto al género femenino se verifica que cuando la edad supera los 55 años y la franja horaria es de 9-15 horas esta asociada a un mayor número de víctimas.  
+- El sexo Masculino está asociado a un mayor porcentaje de siniestros viales,representando el 76%, y el rango etario predominante es de 18 a 35 años. En el caso del sexo femenino, se observa que, cuando la edad supera los 55 años y la franja horaria es de 9 a 15 horas, también hay un aumento en el número de víctimas.
 
 <p align="center">
 <img src="src\analisis06.png" height=400 weight=550>
@@ -122,8 +122,9 @@ Se reconoce que la mayor cantidad de Siniestros Viales se encuentran al Este de 
 
 ## **4. Creación de KPIs**
 
-* *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
-    la **tasa de homicidios en siniestros viales** está definida como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. <br>Su fórmula es: 
+*  *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.*  
+
+La **tasa de homicidios en siniestros viales** está definida como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. <br>Su fórmula es: 
     (Número de homicidios en siniestros viales / Población total) * 100,000
 
 <p align="center"><img src="src\kpi01.png" height=300 weight=400></p>
@@ -152,23 +153,24 @@ El Dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https:
 
 Mis principales conclusiones sobre la evolución de los accidentes de tráfico en CABA son los siguientes:
  
-✅ Del 2016 al 2018 existe una mayor cantidad de siniestros viales en los años posteriores esta se fue reduciendo (2019-2021) y se verificó que son las motos las que tienen mayor participación en accidentes así como los rangos de edades entre 18-35 años.  
+✅ Entre 2016 al 2018, se evidenció un aunmento significativo en la cantidad de siniestros viales. Sin embargo en los años posteriores, esta tendencia comenzó a reducirse (2019-2021). Se verificó que las motos son los vehiculos con mayor participación en los accidentes, así como el rango de edad comprendido entre 18 y 35 años.  
   
-✅ La comuna 1, es la que tiene la mayor concentración de accidentes y se verico que las avenidas "9 de Julio" y "Paseo Colón" son las que tienen asociadas un número mayor de víctimas.
+✅ La comuna 1, tiene asociada la mayor concentración de accidentes y son las avenidas "9 de Julio" y "Paseo Colón" las que registran un mayor número de víctimas.
 
-✅ El rango de edad de la víctima cuando el sexo es masculino está entre 18-35 años y cuando el sexo es femenino la edad es superior a 55 años.
+✅ El rango de edad de las víctimas varián según al sexo: en los hombres, se sitúa entre los 18 y 35 años mientras que en las mujeres la edad es superior a los 55 años.
 
-✅ El rol de la víctima asociado a una mayor cantidad de accidentes es el Conductor en comparación con el pasajero acompañante.
+✅ El rol de la víctima que está relacionado a una mayor cantidad de accidentes es el Conductor, en comparación con el pasajero acompañante.
  
-✅ El accidente típico se produce un Sábado a las 7 horas en el mes de Diciembre. 
+✅ El accidente típico ocurre un Sábado a las 7 horas en el mes de Diciembre. 
 
 
 En función de lo anterior, se hacen las siguientes recomendaciones:
 
-- Se debe de generar campañas de concientización en las comunas que tienen un alto número de víctimas; así como eliminar la contaminación visual en las principales avenidas ya que esto aumenta la distracción de los conductores.
-- Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 35 años.
-- Debe existir un reglamento más riguroso para la obtención de la licencia de vehículos y especificamente sobre quienes usan moto se debe establecer un control en el uso obligatorio de casco certificado.
-- Es en el mes de Diciembre donde se debería reforzar la seguridad vial por medio de operativos policiales en las principales avenidas.
+- Se debe de generar campañas de concientización en las comunas que tienen un alto número de víctimas.
+- Eliminar la contaminación visual en las principales avenidas, ya que esto aumenta la distracción de los conductores.
+- Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 35 años y en mujeres que tienen una edad superior a 55 años.
+- Debe existir un reglamento más riguroso para la obtención de la licencia de vehículos,  así como establecer un control en el uso obligatorio de casco certificado.
+- Reforzar la seguridad vial por medio de operativos policiales en las principales avenidas, especificamente en el mes de Diciembre.
 
 
 ## 🛠 Tecnologías Utilizadas
