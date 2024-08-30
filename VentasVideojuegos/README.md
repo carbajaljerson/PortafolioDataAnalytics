@@ -28,7 +28,7 @@ El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identi
 
 
 ## **3. Dashboard**
-El Dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODMxNTctNjY0ZS00NTUyLTgzYzUtNzRhMmI2ZTUyZjcwIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
+El dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODMxNTctNjY0ZS00NTUyLTgzYzUtNzRhMmI2ZTUyZjcwIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
 
 
 ## **4. Datos**
