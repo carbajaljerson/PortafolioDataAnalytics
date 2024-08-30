@@ -33,7 +33,7 @@ El Dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https:
 
 ## **4. Datos**
 
-Se cuenta con un dataset que contiene las platformas, año de lanzamiento, genero, ventas, ventas por región y la empresa desarrolladora como las más resaltantes.
+Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://drive.google.com/drive/folders/1k7hHtI3bGQ9UykEvdEwnRecXJAwQBaQQ?usp=sharing)
 
 ## **5. Recomendaciones**
 
@@ -48,7 +48,3 @@ Se cuenta con un dataset que contiene las platformas, año de lanzamiento, gener
 - Aunque es tentador enfocarse solo en los géneros que generaron más ventas, se debe de considerar tener una cartera diversificada para capturar diferentes segmentos del mercado.
 
 - Tener presente las preferencias culturales de cada región principal en el desarrollo de videojuegos.
-
-## **6. Detalles adicionales del proyecto**
-
-`Obtención de datos:` Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://drive.google.com/drive/folders/1k7hHtI3bGQ9UykEvdEwnRecXJAwQBaQQ?usp=sharing) 
