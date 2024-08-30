@@ -41,10 +41,10 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 
 - Se debe de buscar realizar colaboraciones con los editores top que son: Nintendo, Electronic Arts, Activision, Sony y Ubisoft.
 
-- Los géneros en los cuales se ben de desarrollar son: Deportes, Acción, Plataformas, Puzles, Carreras, RPG y Shooters. Considerar la creación de videojuegos que combinen elementos de varios géneros.
+- Los géneros en los cuales se deben de desarrollar los videojuegos son: Deportes, Acción, Plataformas, Puzles, Carreras, RPG y Shooters. Considerar la creación de videojuegos que combinen elementos de varios géneros.
 
 - Dado que Nintendo, Electronic Arts y Activision están entre los top editores, considerar el desarrollo para sus plataformas respectivas.
 
 - Aunque es tentador enfocarse solo en los géneros que generaron más ventas, se debe de considerar tener una cartera diversificada para capturar diferentes segmentos del mercado.
 
-- Tener presente las preferencias culturales de cada región principal en el desarrollo de videojuegos.
+- Tener presente las preferencias culturales de cada región en el desarrollo de videojuegos.
