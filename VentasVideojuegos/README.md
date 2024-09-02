@@ -1,7 +1,7 @@
 # Proyecto de Ventas de Videojuegos
 
 <p align=center>
-<img src="src\logo.png" height="300" weight="300">
+<img src="src\logo.png" height="400" weight="400">
 </p>
 
 
