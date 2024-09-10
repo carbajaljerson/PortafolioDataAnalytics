@@ -56,9 +56,7 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 
 
 
-.Tasa de crecimiento de ingresos : Este indicador mide el porcentaje de aumento o disminución de los ingresos de un período a otro, lo que brinda a la organización una visión clara de la evolución de sus ingresos. Este KPI ayuda a la ONG a entender su posición financiera permitiendo tomar decisiones informadas sobre la gestión de sus recursos financieros, la planificación de proyectos y la sostenibilidad a largo plazo.
-
-Se observa un fuerte crecimiento en los meses de Febrero y Junio además existe un decrecimiento en Marzo y Mayo. Existe una tendencia general al alza, con Junio terminando en un nivel superior al inicio del año.
+.Tasa de crecimiento de ingresos : Este indicador mide el porcentaje de aumento o disminución de los ingresos de un período a otro, lo que brinda a la organización una visión clara de la evolución de sus ingresos. Este KPI ayuda a la ONG a entender su posición financiera permitiendo tomar decisiones informadas sobre la gestión de sus recursos financieros, la planificación de proyectos y la sostenibilidad a largo plazo. Se observa un fuerte crecimiento en los meses de Febrero y Junio además existe un decrecimiento en Marzo y Mayo. Existe una tendencia general al alza, con Junio terminando en un nivel superior al inicio del año.
 
 .Índice de Sostenibilidad Financiera :  Este indicador permite entender cuánto excedente se está generando en relación con los egresos totales, brindando a la organización una visión clara de su posición financiera. La ONG muestra una buena sostenibilidad financiera en la mayoría de los meses, con excepción del mes de Marzo, donde experimentó un déficit sin embargo en Junio y Febrero fueron los meses con mejor desempeño financiero.
 
