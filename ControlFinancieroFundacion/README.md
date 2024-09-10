@@ -36,7 +36,7 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 ## **2. Análisis de Datos**
 
 <p align=center>
-<img src="src\dashboard001.png" height="500" weight="500">
+<img src="src\dashboard001.png" height="450" weight="500">
 </p>
 
 
