@@ -5,12 +5,32 @@
 </p>
 
 
-## **1. Introducción**
+## **Introducción**
 
 El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identificar posibles nichos, en donde se pueden desarrollar nuevos videojuegos. El objetivo principal es encontrar los insights y presentarlos, suponiendo que nuestra audiencia es un grupo inversor dispuesto a invertir en el desarrollo de videojuegos.
 
+## 📊 Alcance del Proyecto
 
-## **2. Análisis**
+El siguiente proyecto contiene los siguientes desarrollos:
+
+- Extracción y Transformación (Power Query)
+- Creación de Dashboard y Análisis con PowerBI
+
+## **Datos**
+
+Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://drive.google.com/drive/folders/1k7hHtI3bGQ9UykEvdEwnRecXJAwQBaQQ?usp=sharing)
+
+
+## **DESARROLLO DEL PROYECTO ** :
+
+## **1. Etapa del proceso ETL** :
+- Carga de los archivos con extensión csv con la libreria pandas.
+- Luego se realizó el trabajo ETL(Extracción, Transformación y Carga).
+- Se realizaron diversas transformaciones cumpliéndose con la estandarización de los datos se analizaron nulos y duplicados, se eliminaron columnas redundantes, entre otras tareas.
+
+
+
+## **2. Análisis de Datos**
 
 <p align=center>
 <img src="src\dashboard.png" height="550" weight="650">
@@ -27,13 +47,11 @@ El presente proyecto se desarolla bajo el perfil de un Data Analyst, para identi
 . Los géneros relacionados a mayores ventas fueron en la industria de videojuegos fueron:  Sports, Action,  Platform, Puzzle, Racing, Role-Playing, Shooter y Misc.
 
 
-## **3. Dashboard**
+## **4. Dashboard**
 El dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODMxNTctNjY0ZS00NTUyLTgzYzUtNzRhMmI2ZTUyZjcwIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
 
 
-## **4. Datos**
 
-Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://drive.google.com/drive/folders/1k7hHtI3bGQ9UykEvdEwnRecXJAwQBaQQ?usp=sharing)
 
 ## **5. Recomendaciones**
 
