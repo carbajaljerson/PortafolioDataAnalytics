@@ -164,7 +164,7 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
 ✅ El accidente típico ocurre un Sábado a las 7 horas en el mes de Diciembre. 
 
 
-En función de lo anterior, se hacen las siguientes recomendaciones:
+## **7. Recomendaciones**
 
 - Se debe de generar campañas de concientización en las comunas que tienen un alto número de víctimas.
 - Eliminar la contaminación visual en las principales avenidas, ya que esto aumenta la distracción de los conductores.
