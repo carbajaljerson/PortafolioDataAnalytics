@@ -1,4 +1,4 @@
-# Proyecto de Ventas de Videojuegos
+# Proyecto Control Financiero Fundación Potenciar Solidario
 
 <p align=center>
 <img src="src\logo.png" height="450" weight="450">
