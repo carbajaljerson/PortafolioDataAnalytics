@@ -41,12 +41,12 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 
 
 <p align=center>
-<img src="src\dashboard002.png" height="425" weight="500">
+<img src="src\dashboard002.png" height="400" weight="450">
 </p>
 
 
 <p align=center>
-<img src="src\dashboard003.png" height="425" weight="500">
+<img src="src\dashboard003.png" height="400" weight="450">
 </p>
 
 
