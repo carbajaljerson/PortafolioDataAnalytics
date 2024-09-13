@@ -23,7 +23,7 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 ## **DESARROLLO DEL PROYECTO ** :
 
 ## **1. Etapa del proceso ETL** :
-- Carga de los archivos con extensión xlsx con Google Sheets.
+- Carga de los archivos con extensión xlsx
 - Luego se realizó el trabajo Extracción y Transformación de los datos.
 - Se realizó la limpieza de datos y se hicieron diversas transformaciones cumpliéndose con la estandarización de los datos se revisaron nulos,duplicados, se eliminaron columnas redundantes, entre otras tareas.
 
