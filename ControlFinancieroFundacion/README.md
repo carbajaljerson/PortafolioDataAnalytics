@@ -12,8 +12,8 @@ Este proyecto no solo busca brindar una visión clara del estado financiero actu
 
 El siguiente proyecto contiene los siguientes desarrollos:
 
-- Extracción y Transformación (Power Query)
-- Creación de Dashboard y Análisis con PowerBI
+- Extracción y Transformación
+- Creación de Dashboard y Análisis con Google Sheet
 
 ## **Datos**
 
