@@ -12,8 +12,8 @@ Este proyecto no solo busca brindar una visión clara del estado financiero actu
 
 El siguiente proyecto contiene los siguientes desarrollos:
 
-- Extracción y Transformación con Google Sheet
-- Creación de Dashboard y Análisis con Google Sheet
+- Extracción y Transformación con Google Sheets
+- Creación de Dashboard y Análisis con Google Sheets
 
 ## **Datos**
 
